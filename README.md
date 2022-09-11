@@ -1,7 +1,8 @@
 # Python games
 Classic games made in Python
 
-Pong
+**Pong**
+
 A classic pong for 2 players 
 
 
